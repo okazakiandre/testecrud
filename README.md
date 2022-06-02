@@ -1,2 +1,2 @@
-# testecrud
-Solution criada para a aula "CRUD precisa de teste de unidade?". Link da aula: https://youtu.be/nDxxZtxPV_U
+# srpcomtestes
+Solution usada na aula sobre Princípio da Responsabilidade Única (SRP) e testes que não dependem de acesso ao banco de dados.

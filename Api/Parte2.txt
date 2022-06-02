@@ -1,0 +1,11 @@
+﻿Preciso testar um CRUD?
+==========================
+
+- O que é CRUD?
+  - Create, Read, Update, Delete
+  - normalmente é um código simples
+
+- Pergunta errada!
+  - simples ou complexo não faz diferença
+  - por que você quer testar?
+  - lógica de fluxo e lógica de estado

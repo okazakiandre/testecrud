@@ -1,0 +1,6 @@
+﻿Preciso testar um CRUD?
+==========================
+
+- O que é CRUD?
+  - Create, Read, Update, Delete
+  - normalmente é um código simples
